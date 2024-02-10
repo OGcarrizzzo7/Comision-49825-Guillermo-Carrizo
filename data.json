@@ -1,0 +1,8 @@
+[
+        {"id": 1, "nombre": "Alive 2007", "precio": 30000, "imagen": "images/Alive_2007.png"},
+        {"id": 2, "nombre": "Discovery", "precio": 25000, "imagen": "images/Discovery.png"},
+        {"id": 3, "nombre": "Human After All", "precio": 28000, "imagen": "images/human_after_all.png"},
+        {"id": 4, "nombre": "Random Access Memories", "precio": 32000, "imagen": "images/Random_Access_Memories.png"},
+        {"id": 5, "nombre": "Tron Legacy Soundtrack", "precio": 42000, "imagen": "images/tron_legacy.png"},
+        {"id": 6, "nombre": "Homework", "precio": 27000, "imagen": "images/homework.png"}
+    ]

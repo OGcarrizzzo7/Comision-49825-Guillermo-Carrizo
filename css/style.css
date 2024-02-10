@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@600&display=swap");
+
+body {
+    font-family: 'Gabarito', cursive; }
+
+header {
+        background-color: #1f1f1f;
+        padding: 10px;
+        z-index: 1; }
+
+header h1 {
+        color: white;
+        font-size: 50px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-style: italic;
+        text-decoration: none;
+        text-align: center;
+        list-style: none; }  
+        
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h2{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+    list-style: none; 
+}
+
+.btn-danger{
+    background-color: purple;
+}
+
+div{
+    background-color: white;
+}
