@@ -1,8 +1,8 @@
 [
-        {"id": 1, "nombre": "Alive 2007", "precio": 30000, "imagen": "images/Alive_2007.png"},
-        {"id": 2, "nombre": "Discovery", "precio": 25000, "imagen": "images/Discovery.png"},
-        {"id": 3, "nombre": "Human After All", "precio": 28000, "imagen": "images/human_after_all.png"},
-        {"id": 4, "nombre": "Random Access Memories", "precio": 32000, "imagen": "images/Random_Access_Memories.png"},
-        {"id": 5, "nombre": "Tron Legacy Soundtrack", "precio": 42000, "imagen": "images/tron_legacy.png"},
-        {"id": 6, "nombre": "Homework", "precio": 27000, "imagen": "images/homework.png"}
+        {"id": 1, "nombre": "TV SAMSUNG 4K", "precio": 500000, "imagen": "./img/tele.jpg"},
+        {"id": 2, "nombre": "NVIDIA RTX 4090", "precio": 2500000, "imagen": "./img/rtx.jpg"},
+        {"id": 3, "nombre": "Intel I9 14900K", "precio": 1500000, "imagen": "./img/intel.jpg"},
+        {"id": 4, "nombre": "AMD RYZEN 9 5950X", "precio": 1500000, "imagen": "./img/ryzen.jpeg"},
+        {"id": 5, "nombre": "LOGITECH G502 HERO", "precio": 87000, "imagen": "./img/mouse.jpg"},
+        {"id": 6, "nombre": "LOGITECH G635", "precio": 157000, "imagen": "./img/auriculares.png"}
     ]
